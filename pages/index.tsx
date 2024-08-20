@@ -10,7 +10,7 @@ export default function Page() {
            Bloguer - Discover, Learn, and Engage in Every Post
           </h1>
           <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl dark:text-gray-400">
-          Streamline your blogging: Write, edit, and organize effortlessly. Track progress, manage keywords, and oversee multiple blogs from one central place
+          Streamline your blogging: Write and organize effortlessly. Track progress, manage keywords, and oversee multiple blogs from one central place
           </p>
           <Link
             href="/blogs/create"
