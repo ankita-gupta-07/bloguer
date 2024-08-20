@@ -1,6 +1,6 @@
 # Bloguer Website
 
-A minimalistic blog website built with Next.js, styled using Tailwind CSS, and powered by MongoDB. This app allows users to create, edit, and publish blog posts.
+A minimalistic blog website built with Next.js, styled using Tailwind CSS, and powered by MongoDB. This app allows users to create, and publish blog posts.
 
 ## Features
 
